@@ -4,7 +4,7 @@ This is a simple **Movie Search Application** built using **React** and **Vite**
 
 ### Demo
 
-(If you have a live version or hosted it on a platform like Netlify or Vercel, you can add the link here)
+You can view the live version of the app [here](https://main--sparkly-starburst-b5bcd8.netlify.app/).
 
 ### Features
 
@@ -26,3 +26,7 @@ This is a simple **Movie Search Application** built using **React** and **Vite**
 - Framer Motion: For hover animations on movie cards.
 - CSS Grid: For responsive layout.
 - Google Fonts: Poppins and Montserrat for typography.
+
+## License
+
+This project is licensed under the MIT License
