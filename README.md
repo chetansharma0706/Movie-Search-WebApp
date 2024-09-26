@@ -14,9 +14,9 @@ This is a simple **Movie Search Application** built using **React** and **Vite**
 - Hover animations with Framer Motion
 - Simple and fast with Vite
 
-### Screenshots
+### Screenshot
 
-(You can add screenshots or GIFs of your app)
+![Screenshot of the Movie Search App](./assets/MoviesBarScreenShot.png)
 
 ## Technologies Used
 
